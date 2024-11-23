@@ -1,4 +1,4 @@
-export const articles = [
+const articles = [
   {
     articleID: 1,
     title: '文章1',
@@ -6,4 +6,4 @@ export const articles = [
     contentID: 1,
     contentURL: 'https://raw.githubusercontent.com/3542Q/JSRepository/main/contents/contents_1.js',
   },
-];
+]

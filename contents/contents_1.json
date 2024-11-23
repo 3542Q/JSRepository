@@ -1,4 +1,4 @@
-const contents_1 = [
+export const contents_1 = [
     {
         contentID: 1,
         content: `
