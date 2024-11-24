@@ -3,7 +3,6 @@
     "articleID": 1,
     "title": "《塞尔达传说：王国之泪》",
     "titleImageURL": "https://raw.githubusercontent.com/3542Q/ImageRepository/main/image_1.png",
-    "contentID": 1,
-    "contentURL": "https://raw.githubusercontent.com/3542Q/JSRepository/main/contents/contents_1.json"
+    "contentURL": "https://raw.githubusercontent.com/3542Q/JSRepository/main/contents/contents_1.md"
   }
 ]
